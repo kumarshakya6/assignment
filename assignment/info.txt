@@ -1,0 +1,14 @@
+Assignment:
+This is an application of contact.
+With this application we can perform operations such as create, update, delete, get all, get by id, find by first name, last name, email.
+
+you must have user name and password to access above operations where we have role based operation access. such as
+This is 3 types of roles in this application.
+User, Manager, Admin
+User can access only search operations such as [get all, get by Id, get by last name, get by first name, get by email]
+
+Manager: manager have access search operations as well as create and update operations 
+such as [create record, update record, get all, get by Id, get by last name, get by first name, get by email]
+
+Admin:
+Admin have access of all operations, search, create, update, and delete 
